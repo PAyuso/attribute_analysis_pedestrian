@@ -23,5 +23,18 @@ outputFile = "urlsForPlotRAPzs.txt" -> outputfile name with the urls for the plo
 The user should copy each url and make control + R to reload the web and geet the plot. Also, plot and csv could be downloaded.
 
 
+## Get attribute representation vs metrics of the experiments
+
+getPA100KAttribute.py
+
+getPETAAttribute.py
+
+RAPv1Attribute_notused.ipynb
+
+RAPv2Attribute_notused.ipynb
+
+
+
+## Get attribute correlation between number of images and performance
 
 
