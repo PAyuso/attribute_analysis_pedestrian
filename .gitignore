@@ -16,4 +16,6 @@ RAPv2/*.png
 RAPzs/*.csv
 RAPzs/*.png
 
+graphics/*
+
 *.txt
