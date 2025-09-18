@@ -32,8 +32,3 @@ For each dataset there are jupyter notebooks to analyze the dataset and their pe
 - XXCompareExecutionsx.ipynb, compareTwoExecutions.py, compareExecutionsVsOriginal.py  : these scripts are related to compare the performance between executions, in order to check if there is improvement between them.
 
 
-
-
-## Get attribute correlation between number of images and performance
-
-
