@@ -23,15 +23,14 @@ outputFile = "urlsForPlotRAPzs.txt" -> outputfile name with the urls for the plo
 The user should copy each url and make control + R to reload the web and geet the plot. Also, plot and csv could be downloaded.
 
 
-## Get attribute representation vs metrics of the experiments
+## Usage
 
-getPA100KAttribute.py
+For each dataset there are jupyter notebooks to analyze the dataset and their performance. You should get the .jsons from MLFlow of training and testing from the previous step. Then, you will be able to sue the following scripts:
 
-getPETAAttribute.py
+- XX_complexidentities.ipynb, XX_complexidentititesGetAttributes.ipynb : these script is to analyze the distributions performance in test and training related to the identities. To check if there are complex identities.
+- XXAttribute.ipynb, XXAttributeAnalysis.ipynb : these script is used to analyze the attributes performance, to check the complex attributes.
+- XXCompareExecutionsx.ipynb, compareTwoExecutions.py, compareExecutionsVsOriginal.py  : these scripts are related to compare the performance between executions, in order to check if there is improvement between them.
 
-RAPv1Attribute_notused.ipynb
-
-RAPv2Attribute_notused.ipynb
 
 
 
